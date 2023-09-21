@@ -1,6 +1,7 @@
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
 -- import: mohamednishanm.github.io/fastnportfolio/lib
+-- import: fastnui.trizwit.com/UI-Components/Contact/contact-3
 
 -- lib.page:
 
@@ -24,5 +25,17 @@ cover: $assets.files.assets.dmitry-bessonov-PkbAFKZNnz0-unsplash.jpg
 Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. 
 Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
 
+-- contact-3.contact-3: Send a Message
+address: TRIZWIT, Ernakulam, Kerala, India
+email: example@gmail.com
+phone: 22558899
+facebook: $assets.files.images.Footer.facebook.svg
+twitter: $assets.files.images.Footer.twitter.svg
+instagram: $assets.files.images.Footer.instagram.svg
+linkedin: $assets.files.images.Footer.linkedin.svg
+cta-button: Button
+cta-link: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
+
 
 -- end: lib.page
+
